@@ -259,7 +259,6 @@
   />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedrashraf&show_icons=true" alt="ahmedrashraf" /></p>
 
 <p align="center">
 <a href="https://twitter.com/AhmedrAshraf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="AhmedrAshraf" height="30" width="30" /></a>
