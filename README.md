@@ -1,19 +1,19 @@
-# Welcome to Sufiyan Tahir profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to Muhammad Younus Raza! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<a href="https://www.linkedin.com/in/sufiyan-tahir-khan-8b013624a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/connectwithyounus/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
 &nbsp;
 <a href="https://twitter.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AswinBarath2" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.instagram.com/m.sufi_x15/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/iyounusraza/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
 &nbsp;
 <a href="https://www.facebook.com/profile.php?id=100080785359155&mibextid=ZbWKwL" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.youtube.com/@symenticcoder" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="100011683902531e" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@codingmadesimplified" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="100011683902531e" height="30" width="40" /></a>
 &nbsp;
 
 
 
-## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=AswinBarath.AswinBarath)
+## Glad to see you here! 
 
 I am a MERN Stack Developer. I love programming, reading, writing and speaking.
 
@@ -30,20 +30,18 @@ That's why I like to make things that make a difference.
 - 🔭 I’m currently working on React & Next Js platform
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
-  - Typescript and Algorithms on [LeetCode](https://leetcode.com/sufiyan2401/)
+  - Typescript and Algorithms on [LeetCode](https://leetcode.com/younusraza909/)
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
-- 📬 How to reach me: [sufiyan240107@gmail.com](mailto:sufiyan240107@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/187-ADb8DTJABqV2nu832HFoF3KZLkqPm/view?usp=sharing).
+- 📬 How to reach me: [sufiyan240107@gmail.com](mailto:younusraza909@gmail.com)
+- 📝 [Resume](https://docs.google.com/document/d/14xqEziWV0h7ywMKGo6jUSEX1PKZ48DimrnE6SapxOD0/edit).
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/sufiyan2401" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AswinBarath" height="30" width="40" /></a>
+<a href="https://github.com/younusraza909" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AswinBarath" height="30" width="40" /></a>
 &nbsp;
-<a href="https://leetcode.com/sufiyan2401/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aswin26barath" height="30" width="40" /></a>
+<a href="https://leetcode.com/younusraza909/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aswin26barath" height="30" width="40" /></a>
 &nbsp;
-<a href="https://stackoverflow.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13064312" height="30" width="40" /></a>
-&nbsp;
-<a href="https://www.hackerrank.com/profile/sufiyan240107" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="AswinBarath2" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/younusraza909" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="AswinBarath2" height="30" width="40" /></a>
 &nbsp;
 
 
